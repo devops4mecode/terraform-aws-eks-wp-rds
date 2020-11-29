@@ -4,7 +4,7 @@ variable "region" {
 }
 
 variable "cluster-name" {
-  default = "tdo4m-eks-cluster"
+  default = "do4m-eks-cluster"
   type    = string
 }
 variable "RDS_name"{
